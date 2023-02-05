@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "257d437cd34ea8f2",
+        "id": "aa8b6b7c79123bf1",
         "type": "tabs",
         "children": [
           {
-            "id": "0fcde7f25345256d",
+            "id": "925e61142a4f2fb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "files/books/Rukovodstvo-po-Asterisk.596167.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "files/books/Rukovodstvo-po-Asterisk.596167.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "files/books/Rukovodstvo-po-Asterisk.596167.pdf"
+              }
             }
           }
         ]
@@ -139,5 +143,16 @@
     }
   },
   "active": "97b2b2cf34dbdc9a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Анатомия типографии.md",
+    "Виды шрифтов.md",
+    "Водопадная модель.md",
+    "Гибкая модель.md",
+    "Итерационная инкрементальная модель.md",
+    "Модели разработки ПО.md",
+    "Основная технология для работы.md",
+    "Проверка.md",
+    "Спиральная модель.md",
+    "README.md"
+  ]
 }
