@@ -6,14 +6,46 @@
       {
         "id": "aa8b6b7c79123bf1",
         "type": "tabs",
+        "dimension": 87.30964467005076,
         "children": [
           {
-            "id": "925e61142a4f2fb0",
+            "id": "592ceef6c68b2456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
+                "file": "Модули записи деталей вызовов (CDR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e8a58674a7519f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды шрифтов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e1bddec0fa3e392",
+        "type": "tabs",
+        "dimension": 12.690355329949236,
+        "children": [
+          {
+            "id": "50f5891a998dd705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды шрифтов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
+                "file": "Модули записи деталей вызовов (CDR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
+                "file": "Модули записи деталей вызовов (CDR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +157,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Asterisk setup TASK.md"
+                "file": "Модули записи деталей вызовов (CDR).md"
               }
             }
+          },
+          {
+            "id": "eb742855e75b9e51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,20 +184,22 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "925e61142a4f2fb0",
+  "active": "592ceef6c68b2456",
   "lastOpenFiles": [
-    "DlR Masks.md",
-    "Kannel.md",
-    "Roadmap Graphic Designer.md",
-    "README.md",
-    "netstat.md",
-    "projects/Asterisk setup TASK.md",
-    "SIP peer to peer.md",
-    "V-образная модель.md",
+    "Виды шрифтов.md",
+    "Модули записи деталей вызовов (CDR).md",
     "Анатомия типографии.md",
-    "Виды шрифтов.md"
+    "Водопадная модель.md",
+    "Гибкая модель.md",
+    "Итерационная инкрементальная модель.md",
+    "Модели разработки ПО.md",
+    "Основная технология для работы.md",
+    "Спиральная модель.md",
+    "DlR Masks.md"
   ]
 }
