@@ -6,7 +6,6 @@
       {
         "id": "aa8b6b7c79123bf1",
         "type": "tabs",
-        "dimension": 87.30964467005076,
         "children": [
           {
             "id": "592ceef6c68b2456",
@@ -22,25 +21,6 @@
           },
           {
             "id": "27e8a58674a7519f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Виды шрифтов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e1bddec0fa3e392",
-        "type": "tabs",
-        "dimension": 12.690355329949236,
-        "children": [
-          {
-            "id": "50f5891a998dd705",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
