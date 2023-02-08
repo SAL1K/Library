@@ -30,8 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb0434d582cd1c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation Asterisk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b9c4a71e8712cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kannel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3aded50352efe77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Asterisk setup TASK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "695bf28119e53354",
@@ -170,17 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97b2b2cf34dbdc9a",
+  "active": "a3aded50352efe77",
   "lastOpenFiles": [
+    "tcpdump.md",
+    "Kannel.md",
+    "DlR Masks.md",
+    "Основная технология для работы.md",
+    "Спиральная модель.md",
     "Модули записи деталей вызовов (CDR).md",
-    "projects/Asterisk setup TASK.md",
-    "Виды шрифтов.md",
-    "Анатомия типографии.md",
-    "Водопадная модель.md",
+    "Модели разработки ПО.md",
     "Гибкая модель.md",
     "Итерационная инкрементальная модель.md",
-    "Модели разработки ПО.md",
-    "Основная технология для работы.md",
-    "Спиральная модель.md"
+    "Виды шрифтов.md"
   ]
 }
