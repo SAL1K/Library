@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a74eb74151f8cf89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cURL xml post запрос.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx conf.md",
+                "file": "cURL xml post запрос.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx conf.md",
+                "file": "cURL xml post запрос.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx conf.md"
+                "file": "cURL xml post запрос.md"
               }
             }
           },
@@ -206,8 +218,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "008b5d06063a36eb",
+  "active": "a74eb74151f8cf89",
   "lastOpenFiles": [
+    "nginx conf.md",
     "Task pars xml by php.md",
     "DlR Masks.md",
     "Installation Asterisk.md",
@@ -216,7 +229,6 @@
     "V-образная модель.md",
     "Модели разработки ПО.md",
     "ODBC installation and configuration.md",
-    "projects/Asterisk setup TASK.md",
-    "README.md"
+    "projects/Asterisk setup TASK.md"
   ]
 }
