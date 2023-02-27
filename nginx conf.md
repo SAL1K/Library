@@ -1,4 +1,3 @@
-### рот ебал этих конфигов
 ``` nginx
 ##
 # You should look at the following URL's in order to grasp a solid understanding

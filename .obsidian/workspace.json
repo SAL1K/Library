@@ -4,83 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8b6b7c79123bf1",
+        "id": "c2bbf09d581575fd",
         "type": "tabs",
         "children": [
           {
-            "id": "592ceef6c68b2456",
+            "id": "80c04396b0f624ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Пример cURL xml post запроса.md"
+              }
+            }
+          },
+          {
+            "id": "97400613b4fee88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
+                "file": "Пример cURL xml post запроса.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb0434d582cd1c47",
+            "id": "bc490ba8eb905423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation Asterisk.md",
+                "file": "templates/Без названия 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3aded50352efe77",
+            "id": "0a08d7e987bf5447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DlR Masks.md",
+                "file": "Альтернативный синтаксис управляющих структур.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7b32ef0dc569ab7",
+            "id": "9f4de8bfcd9c0101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task pars xml by php.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "008b5d06063a36eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nginx conf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74eb74151f8cf89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cURL xml post запрос.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cURL xml post запрос.md",
+                "file": "Пример cURL xml post запроса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +145,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cURL xml post запрос.md",
-                "linksCollapsed": false,
+                "file": "Пример cURL xml post запроса.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -186,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cURL xml post запрос.md"
+                "file": "Пример cURL xml post запроса.md"
               }
             }
           },
@@ -199,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,17 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a74eb74151f8cf89",
+  "active": "97400613b4fee88a",
   "lastOpenFiles": [
-    "nginx conf.md",
-    "Task pars xml by php.md",
-    "DlR Masks.md",
+    "Спиральная модель.md",
+    "Control Structures.md",
     "Installation Asterisk.md",
     "Kannel.md",
-    "netstat.md",
-    "V-образная модель.md",
-    "Модели разработки ПО.md",
+    "nginx conf.md",
     "ODBC installation and configuration.md",
-    "projects/Asterisk setup TASK.md"
+    "PHP Developer.md",
+    "README.md",
+    "Roadmap Graphic Designer.md",
+    "SIP peer to peer.md"
   ]
 }
