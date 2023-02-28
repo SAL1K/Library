@@ -8,67 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "592ceef6c68b2456",
+            "id": "925e61142a4f2fb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/Asterisk setup TASK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "868b603d0dd0bab1",
+            "id": "bf82ce5ec94fa510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Модули записи деталей вызовов (CDR).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb0434d582cd1c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installation Asterisk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b9c4a71e8712cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kannel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3aded50352efe77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/Asterisk setup TASK.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.15"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "695bf28119e53354",
@@ -134,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Asterisk setup TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,50 +129,39 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "projects/Asterisk setup TASK.md"
-              }
-            }
-          },
-          {
-            "id": "eb742855e75b9e51",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a3aded50352efe77",
+  "active": "bf82ce5ec94fa510",
   "lastOpenFiles": [
-    "tcpdump.md",
-    "Kannel.md",
-    "DlR Masks.md",
-    "Основная технология для работы.md",
-    "Спиральная модель.md",
-    "Модули записи деталей вызовов (CDR).md",
-    "Модели разработки ПО.md",
+    "Анатомия типографии.md",
+    "Виды шрифтов.md",
+    "Водопадная модель.md",
     "Гибкая модель.md",
     "Итерационная инкрементальная модель.md",
-    "Виды шрифтов.md"
+    "Модели разработки ПО.md",
+    "Основная технология для работы.md",
+    "Проверка.md",
+    "Спиральная модель.md",
+    "README.md"
   ]
 }
