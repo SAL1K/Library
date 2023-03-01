@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create table.md",
+                "file": "Control Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "624e5b4f09775a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "таск такой себе.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create table.md",
+                "file": "таск такой себе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create table.md",
+                "file": "таск такой себе.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create table.md"
+                "file": "таск такой себе.md"
               }
             }
           },
@@ -185,19 +196,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f53eb64181e4e2",
+  "active": "624e5b4f09775a54",
   "lastOpenFiles": [
-    "Пример cURL xml post запроса.md",
+    "Control Structures.md",
+    "таск такой себе.md",
+    "DlR Masks.md",
     "create table.md",
-    "canvases/Без названия.canvas",
     "Как читать документацию.md",
+    "Модели разработки ПО.md",
+    "Модули записи деталей вызовов (CDR).md",
+    "Основная технология для работы.md",
+    "Пример cURL xml post запроса.md",
+    "canvases/Без названия 3.canvas",
+    "canvases/Без названия 2.canvas",
+    "canvases/Без названия.canvas",
     "canvases/Без названия 1.canvas",
     "PHP Variables.md",
     "canvases",
     "Без названия.canvas",
     "Без названия 2.canvas",
     "templates/Без названия 1.md",
-    "Control Structures.md",
     "Спиральная модель.md",
     "Installation Asterisk.md",
     "Kannel.md",
