@@ -26,12 +26,12 @@
             }
           },
           {
-            "id": "f35b315acb227d35",
+            "id": "5b116ad7f818ec30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V-образная модель.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V-образная модель.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V-образная модель.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V-образная модель.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +175,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f35b315acb227d35",
+  "active": "5b116ad7f818ec30",
   "lastOpenFiles": [
-    "canvases/Без названия 1.canvas",
+    "V-образная модель.md",
     "conflict-files-obsidian-git.md",
+    "Как читать документацию PHP.md",
+    "Без названия.md",
+    "while.md",
+    "templates/{{Title}}.md",
+    "projects/таск такой себе.md",
+    "projects/Task kannel статистика.md",
+    "if else ifelse.md",
+    "for.md",
+    "do-while.md",
+    "canvases/Как читать документацию.canvas",
+    "canvases/Без названия 3.canvas",
+    "canvases/Без названия 2.canvas",
+    "PHP RoadMap.md",
+    "canvases/Без названия 1.canvas",
     "canvases/Без названия.canvas",
     "Пример cURL xml post запроса.md",
     "Модули записи деталей вызовов (CDR).md",
@@ -191,19 +205,9 @@
     "PHP Variables.md",
     "README.md",
     "Roadmap Graphic Designer.md",
-    "V-образная модель.md",
     "Спиральная модель.md",
     "Как читать документацию.md",
     "templates/Без названия 1.md",
-    "if.md",
-    "else.md",
-    "create table.md",
-    "canvases",
-    "Task pars xml by php.md",
-    "Control Structures.md",
-    "Анатомия типографии.md",
-    "Виды шрифтов.md",
-    "Водопадная модель.md",
-    "Гибкая модель.md"
+    "canvases"
   ]
 }
