@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"90bec7ddd1407c22","x":-540,"y":-360,"width":880,"height":160,"type":"file","file":"Как читать документацию.md"},
+		{"id":"6c599cdecd66b5ff","x":620,"y":-720,"width":250,"height":140,"type":"text","text":"``` php\npublic\n```\nЭто область видимости для доступа к функции"},
+		{"id":"8beb22f592ddac3d","x":620,"y":-560,"width":250,"height":120,"type":"text","text":"``` php\nDOMDocument\n```\nИмя функции"},
+		{"id":"6e04aaf8815c1e48","x":620,"y":-420,"width":250,"height":140,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"be2907f8bd756a14","fromNode":"90bec7ddd1407c22","fromSide":"right","toNode":"6c599cdecd66b5ff","toSide":"left"},
+		{"id":"1bb2e258a9617edf","fromNode":"90bec7ddd1407c22","fromSide":"right","toNode":"8beb22f592ddac3d","toSide":"left"},
+		{"id":"d3df2c4748510fa4","fromNode":"90bec7ddd1407c22","fromSide":"right","toNode":"6e04aaf8815c1e48","toSide":"left"}
+	]
+}

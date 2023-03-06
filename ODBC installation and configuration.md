@@ -21,7 +21,6 @@ cp libmyodbc8w.so /usr/lib/x86_64-linux-gnu/odbc/
 [MySQL]
 Description = ODBC for MySQL
 Driver = /usr/lib/x86_64-linux-gnu/odbc/libmyodbc8w.so
-Setup = /usr/lib/x86_64-linux-gnu/odbc/libodbcmyS.so
 FileUsage = 1
 ```
 
@@ -49,7 +48,6 @@ User        = vm_user_db
 Password    = 4[}qm?Yt^06Dj,*h
 Socket      = /var/run/mysqld2/mysqld2.sock
 Option      = 3
-
 
 [RBT]
 Description = MySQL connection to 'RBT' database
