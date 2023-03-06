@@ -9,5 +9,9 @@
 $a = true;
 if ($a == true){
 echo '$a это правда';
+} else {
+echo '$a это ложь';
+} ifelse ($a == int){
+echo '$a это чилсо'
 }
 ```

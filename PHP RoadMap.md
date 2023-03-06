@@ -1,0 +1,14 @@
+### PHP syntax
+- [[Control Structures]] - Встроенные функции в язык
+- [[PHP Variables]] - Переменные
+- [[Operators]] - Операторы для различных выражений
+- [[Types]] - Виды переменных
+- [[Basic syntax]]
+- [[Classers and Objects]] -
+- [[Constants]] - Заранее определённые переменные
+- [[Exceptions]] - Исключения
+- [[Namespaces]] -
+- [[Predefined Variables]] - Заранее определённые переменные
+- [[Expressions]] - Сравнения
+- [[Functions]] - Функции
+- [[Errors]] - Ошибки
