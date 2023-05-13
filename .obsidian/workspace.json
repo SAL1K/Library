@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8b6b7c79123bf1",
+        "id": "70bd582b696788f9",
         "type": "tabs",
         "children": [
           {
-            "id": "925e61142a4f2fb0",
+            "id": "a836faebb6242507",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Цветовая палитра лайнеров.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "695bf28119e53354",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Цветовая палитра лайнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Цветовая палитра лайнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Цветовая палитра лайнеров.md"
+              }
             }
           },
           {
@@ -136,13 +144,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "e0ae71579169e590",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,39 +172,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "713b0c4391270c4b",
+  "active": "a836faebb6242507",
   "lastOpenFiles": [
-    "Без названия.md",
-    "nginx conf.md",
-    "Основная технология для работы.md",
-    "Control Structures.md",
-    "Check listen ports.md",
-    "V-образная модель.md",
-    "conflict-files-obsidian-git.md",
-    "Как читать документацию PHP.md",
-    "while.md",
-    "templates/{{Title}}.md",
-    "projects/таск такой себе.md",
-    "projects/Task kannel статистика.md",
-    "if else ifelse.md",
-    "for.md",
-    "do-while.md",
-    "canvases/Как читать документацию.canvas",
-    "canvases/Без названия 3.canvas",
-    "canvases/Без названия 2.canvas",
-    "PHP RoadMap.md",
-    "canvases/Без названия 1.canvas",
-    "canvases/Без названия.canvas",
-    "Пример cURL xml post запроса.md",
-    "Модули записи деталей вызовов (CDR).md",
-    "Альтернативный синтаксис управляющих структур.md",
     "Kannel.md",
+    "nginx conf.md",
     "ODBC installation and configuration.md",
-    "PHP RM.md",
+    "PHP RoadMap.md",
     "PHP Variables.md",
     "README.md",
     "Roadmap Graphic Designer.md",
-    "Спиральная модель.md",
+    "tcpdump.md",
+    "SIP peer to peer.md",
+    "canvases/Как читать документацию.canvas",
+    "Task pars xml by php.md",
+    "while.md",
+    "Лайнеры.md",
+    "Пример cURL xml post запроса.md",
+    "Модули записи деталей вызовов (CDR).md",
+    "Цветовая палитра лайнеров.md",
+    "Check listen ports.md",
+    "canvases/Без названия 3.canvas",
+    "canvases/Без названия 2.canvas",
+    "canvases/Без названия 1.canvas",
+    "canvases/Без названия.canvas",
+    "Control Structures.md",
+    "create table.md",
+    "Основная технология для работы.md",
+    "Виды шрифтов.md",
+    "Анатомия типографии.md",
+    "Альтернативный синтаксис управляющих структур.md",
+    "if else ifelse.md",
+    "Installation Asterisk.md",
+    "V-образная модель.md",
+    "conflict-files-obsidian-git.md",
     "canvases"
   ]
 }

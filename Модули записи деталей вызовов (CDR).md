@@ -12,3 +12,4 @@
 | cdr_sqlite3_custom | Записывает CDR в базу данных SQLite3 с пользовательскими полями                   | <font style="color:#24e1ab">Полезный</font>                                       |
 |     cdr_syslog     | Записывает CDR в syslog                                                           | <font style="color:#24e1ab">Полезный</font>                                       |
 |      cdr_tds       | Записывает CDR в Microsoft SQL и Sybase                                           | <font style="color:#f4d41d">Годный</font> - требуется старая версия libtds        |
+#Unifun 

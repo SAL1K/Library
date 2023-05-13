@@ -138,3 +138,4 @@ asterisk -rx "module reload func_odbc.so"
 asterisk -rx "module reload cdr.so"      (Только после согласования со мной)
 asterisk -rx "cdr show status" 
 ```
+#Unifun 
