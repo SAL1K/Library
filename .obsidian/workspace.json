@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70bd582b696788f9",
+        "id": "30be80eb94cd8cff",
         "type": "tabs",
         "children": [
           {
-            "id": "a836faebb6242507",
+            "id": "07178d10534fb747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цветовая палитра лайнеров.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цветовая палитра лайнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Цветовая палитра лайнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Цветовая палитра лайнеров.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,49 +154,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a836faebb6242507",
+  "active": "07178d10534fb747",
   "lastOpenFiles": [
+    "projects/Asterisk setup TASK.md",
+    "projects/таск такой себе.md",
+    "projects/Task kannel статистика.md",
+    "create table.md",
+    "PHP Variables.md",
+    "HTTP.md",
+    "HTTP code.md",
+    "URN.md",
+    "URL.md",
+    "URI.md",
+    "DNS.md",
     "Kannel.md",
-    "nginx conf.md",
+    "Как читать документацию PHP.md",
+    "Виды шрифтов.md",
+    "Анатомия типографии.md",
+    "Альтернативный синтаксис управляющих структур.md",
+    "README.md",
+    "for.md",
+    "if else ifelse.md",
+    "do-while.md",
+    "DlR Masks.md",
+    "Control Structures.md",
+    "Check listen ports.md",
+    "Пример cURL xml post запроса.md",
     "ODBC installation and configuration.md",
     "PHP RoadMap.md",
-    "PHP Variables.md",
-    "README.md",
-    "Roadmap Graphic Designer.md",
-    "tcpdump.md",
-    "SIP peer to peer.md",
     "canvases/Как читать документацию.canvas",
-    "Task pars xml by php.md",
-    "while.md",
-    "Лайнеры.md",
-    "Пример cURL xml post запроса.md",
-    "Модули записи деталей вызовов (CDR).md",
-    "Цветовая палитра лайнеров.md",
-    "Check listen ports.md",
     "canvases/Без названия 3.canvas",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
     "canvases/Без названия.canvas",
-    "Control Structures.md",
-    "create table.md",
-    "Основная технология для работы.md",
-    "Виды шрифтов.md",
-    "Анатомия типографии.md",
-    "Альтернативный синтаксис управляющих структур.md",
-    "if else ifelse.md",
-    "Installation Asterisk.md",
-    "V-образная модель.md",
-    "conflict-files-obsidian-git.md",
     "canvases"
   ]
 }
