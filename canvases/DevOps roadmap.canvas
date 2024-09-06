@@ -1,0 +1,537 @@
+{
+  "nodes": [
+    {
+      "id": "2493b2872fb9a72e",
+      "type": "text",
+      "text": "Docker",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 295,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "0dfd1ec3043ed214",
+      "type": "text",
+      "text": " Container Orchestration",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 295,
+      "width": 275,
+      "height": 60
+    },
+    {
+      "id": "4ba0150690154290",
+      "type": "text",
+      "text": "Kubernets",
+      "styleAttributes": {},
+      "x": -697,
+      "y": 460,
+      "width": 177,
+      "height": 60
+    },
+    {
+      "id": "b8b956e34c39e72c",
+      "type": "text",
+      "text": "Docker Swarm",
+      "styleAttributes": {},
+      "x": -485,
+      "y": 460,
+      "width": 185,
+      "height": 60
+    },
+    {
+      "id": "07c473a3b9370507",
+      "type": "text",
+      "text": "DevOps roadmap",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -200,
+      "width": 260,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "f9aa39a8ab852fd1",
+      "type": "text",
+      "text": "Programming Language",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -80,
+      "width": 260,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "d3253663bb0589b6",
+      "type": "text",
+      "text": "Operation System",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 40,
+      "width": 260,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "b1304eb335122e1c",
+      "type": "text",
+      "text": "Version Control System",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 165,
+      "width": 260,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "04e2197c751dbca7",
+      "type": "text",
+      "text": "Containers",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 300,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "d2a7d4b34afa509a",
+      "type": "text",
+      "text": "Basic Software  ",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 440,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "ba7097f537c36f95",
+      "type": "text",
+      "text": "Python",
+      "styleAttributes": {},
+      "x": 285,
+      "y": -115,
+      "width": 125,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "bb76f231d7f62a8a",
+      "type": "text",
+      "text": "Golang",
+      "styleAttributes": {},
+      "x": 285,
+      "y": -45,
+      "width": 125,
+      "height": 50,
+      "color": "#99fdff"
+    },
+    {
+      "id": "13b6706f818a5a7f",
+      "type": "text",
+      "text": "Process Monitoring",
+      "styleAttributes": {},
+      "x": -1085,
+      "y": -85,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "71ab8acf55c1643c",
+      "type": "text",
+      "text": "Performance Monitoring",
+      "styleAttributes": {},
+      "x": -1085,
+      "y": -5,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "664d0bde80c34274",
+      "type": "text",
+      "text": "Network Tools",
+      "styleAttributes": {},
+      "x": -1085,
+      "y": 75,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6d71c4d924cefc76",
+      "type": "file",
+      "file": "Scripting.md",
+      "styleAttributes": {},
+      "x": -770,
+      "y": -95,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "54f42da30d1a9a60",
+      "type": "text",
+      "text": "Terminal Knowledge",
+      "styleAttributes": {},
+      "x": -745,
+      "y": 35,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "22a08a1ac5fd17c6",
+      "type": "text",
+      "text": "Text Manipulation",
+      "styleAttributes": {},
+      "x": -1085,
+      "y": 155,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7b24a0c446aa359a",
+      "type": "text",
+      "text": "Vim",
+      "styleAttributes": {},
+      "x": -670,
+      "y": 120,
+      "width": 100,
+      "height": 50
+    },
+    {
+      "id": "c6cebbcfd2d3fcfb",
+      "type": "text",
+      "text": "- [ ] How linux works",
+      "styleAttributes": {},
+      "x": -435,
+      "y": -85,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "440669023f763389",
+      "type": "text",
+      "text": "- Ubuntu / Debian\n- RHEL",
+      "styleAttributes": {},
+      "x": -425,
+      "y": 25,
+      "width": 230,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "6a1be6fae7ff9b5f",
+      "type": "text",
+      "text": "VCS Hosting",
+      "styleAttributes": {},
+      "x": 274,
+      "y": 160,
+      "width": 162,
+      "height": 60
+    },
+    {
+      "id": "be1f3e51879f787a",
+      "type": "text",
+      "text": "GitLab",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 80,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "499a58eefe00e1e0",
+      "type": "text",
+      "text": "GitHub",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 160,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "f5d74904c7b01525",
+      "type": "text",
+      "text": "Bitbucket",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 240,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "e48e4d23ac2b1632",
+      "type": "text",
+      "text": "Forward Proxy",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 315,
+      "width": 187,
+      "height": 60
+    },
+    {
+      "id": "850f469abceba107",
+      "type": "text",
+      "text": "Caching Server",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 395,
+      "width": 187,
+      "height": 60
+    },
+    {
+      "id": "e59a830159a47833",
+      "type": "text",
+      "text": "Firewall",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 475,
+      "width": 187,
+      "height": 60
+    },
+    {
+      "id": "742ef7c899aef585",
+      "type": "text",
+      "text": "Reverse Proxy",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 555,
+      "width": 187,
+      "height": 60
+    },
+    {
+      "id": "24a76e6abf821c23",
+      "type": "text",
+      "text": "Load Balancer",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 635,
+      "width": 187,
+      "height": 60
+    },
+    {
+      "id": "a92c19a5797c7860",
+      "type": "text",
+      "text": "Nginx",
+      "styleAttributes": {},
+      "x": 285,
+      "y": 245,
+      "width": 187,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "6d7c08d0a0b75f59",
+      "fromNode": "f9aa39a8ab852fd1",
+      "fromSide": "right",
+      "toNode": "ba7097f537c36f95",
+      "toSide": "left"
+    },
+    {
+      "id": "bf618bed24eb53cc",
+      "fromNode": "f9aa39a8ab852fd1",
+      "fromSide": "right",
+      "toNode": "bb76f231d7f62a8a",
+      "toSide": "left"
+    },
+    {
+      "id": "ead453dec011f139",
+      "fromNode": "07c473a3b9370507",
+      "fromSide": "bottom",
+      "toNode": "f9aa39a8ab852fd1",
+      "toSide": "top"
+    },
+    {
+      "id": "dab4fbb28673ef69",
+      "fromNode": "f9aa39a8ab852fd1",
+      "fromSide": "bottom",
+      "toNode": "d3253663bb0589b6",
+      "toSide": "top"
+    },
+    {
+      "id": "846a60a85f98b96b",
+      "fromNode": "d3253663bb0589b6",
+      "fromSide": "left",
+      "toNode": "440669023f763389",
+      "toSide": "right"
+    },
+    {
+      "id": "f4e1b306997f42e6",
+      "fromNode": "440669023f763389",
+      "fromSide": "left",
+      "toNode": "54f42da30d1a9a60",
+      "toSide": "right"
+    },
+    {
+      "id": "b7fdb4a7827348ae",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "left",
+      "toNode": "13b6706f818a5a7f",
+      "toSide": "right"
+    },
+    {
+      "id": "bb28d3942f04fd00",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "left",
+      "toNode": "71ab8acf55c1643c",
+      "toSide": "right"
+    },
+    {
+      "id": "b61ca4087321afa1",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "left",
+      "toNode": "664d0bde80c34274",
+      "toSide": "right"
+    },
+    {
+      "id": "d74397d468c04889",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "left",
+      "toNode": "22a08a1ac5fd17c6",
+      "toSide": "right"
+    },
+    {
+      "id": "a1b6f7655e2600d1",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "top",
+      "toNode": "6d71c4d924cefc76",
+      "toSide": "bottom"
+    },
+    {
+      "id": "08731e6f6a4ace48",
+      "fromNode": "54f42da30d1a9a60",
+      "fromSide": "bottom",
+      "toNode": "7b24a0c446aa359a",
+      "toSide": "top"
+    },
+    {
+      "id": "46f3f34e867c0d67",
+      "fromNode": "d3253663bb0589b6",
+      "fromSide": "bottom",
+      "toNode": "b1304eb335122e1c",
+      "toSide": "top"
+    },
+    {
+      "id": "6e752431f6d8a1ea",
+      "fromNode": "b1304eb335122e1c",
+      "fromSide": "right",
+      "toNode": "6a1be6fae7ff9b5f",
+      "toSide": "left"
+    },
+    {
+      "id": "90531af9bc7c4f07",
+      "fromNode": "6a1be6fae7ff9b5f",
+      "fromSide": "right",
+      "toNode": "be1f3e51879f787a",
+      "toSide": "left"
+    },
+    {
+      "id": "05be956d8b69a6c1",
+      "fromNode": "6a1be6fae7ff9b5f",
+      "fromSide": "right",
+      "toNode": "499a58eefe00e1e0",
+      "toSide": "left"
+    },
+    {
+      "id": "c98d9714411a707f",
+      "fromNode": "6a1be6fae7ff9b5f",
+      "fromSide": "right",
+      "toNode": "f5d74904c7b01525",
+      "toSide": "left"
+    },
+    {
+      "id": "1da5d13e0d5cfa25",
+      "fromNode": "b1304eb335122e1c",
+      "fromSide": "bottom",
+      "toNode": "04e2197c751dbca7",
+      "toSide": "top"
+    },
+    {
+      "id": "9248eebcf495fdd2",
+      "fromNode": "04e2197c751dbca7",
+      "fromSide": "left",
+      "toNode": "2493b2872fb9a72e",
+      "toSide": "right"
+    },
+    {
+      "id": "433aa59fc63b9081",
+      "fromNode": "04e2197c751dbca7",
+      "fromSide": "bottom",
+      "toNode": "d2a7d4b34afa509a",
+      "toSide": "top"
+    },
+    {
+      "id": "b7f3c376f304579d",
+      "fromNode": "2493b2872fb9a72e",
+      "fromSide": "left",
+      "toNode": "0dfd1ec3043ed214",
+      "toSide": "right"
+    },
+    {
+      "id": "5e14176b8f483ccd",
+      "fromNode": "0dfd1ec3043ed214",
+      "fromSide": "bottom",
+      "toNode": "4ba0150690154290",
+      "toSide": "top"
+    },
+    {
+      "id": "1fc6d3e02f72a3f8",
+      "fromNode": "0dfd1ec3043ed214",
+      "fromSide": "bottom",
+      "toNode": "b8b956e34c39e72c",
+      "toSide": "top"
+    },
+    {
+      "id": "c5189cba455f2b68",
+      "fromNode": "440669023f763389",
+      "fromSide": "top",
+      "toNode": "c6cebbcfd2d3fcfb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3186f2ecbb212585",
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "850f469abceba107",
+      "toSide": "left"
+    },
+    {
+      "id": "94e2aee31232fe84",
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "e48e4d23ac2b1632",
+      "toSide": "left"
+    },
+    {
+      "id": "459a2304756eecc2",
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "e59a830159a47833",
+      "toSide": "left"
+    },
+    {
+      "id": "f99320f282cba6c2",
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "742ef7c899aef585",
+      "toSide": "left"
+    },
+    {
+      "id": "96c6051ddd414352",
+      "styleAttributes": {},
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "24a76e6abf821c23",
+      "toSide": "left"
+    },
+    {
+      "id": "f71e728b9de61a6e",
+      "styleAttributes": {},
+      "fromNode": "d2a7d4b34afa509a",
+      "fromSide": "right",
+      "toNode": "a92c19a5797c7860",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

@@ -8,11 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07178d10534fb747",
+            "id": "aa6905713171affc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "canvases/DevOps roadmap.canvas",
+                "viewState": {
+                  "x": 5.048150406503671,
+                  "y": 289.6050333717923,
+                  "zoom": -0.6068802950775802
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "canvases/DevOps roadmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "canvases/DevOps roadmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "canvases/DevOps roadmap.canvas"
+              }
             }
           },
           {
@@ -164,38 +175,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07178d10534fb747",
+  "active": "aa6905713171affc",
   "lastOpenFiles": [
+    "nginx conf.md",
+    "ODBC intallation and configuration.md",
+    "PHP RoadMap.md",
+    "PHP Variables.md",
+    "if else ifelse.md",
+    "for.md",
+    "DlR Masks.md",
+    "canvases/DevOps roadmap.canvas",
+    "canvases/Без названия 2.canvas",
+    "canvases/Без названия 1.canvas",
+    "canvases/Как читать документацию.canvas",
+    "Control Structures.md",
+    "Check listen ports.md",
+    "create table.md",
+    "DevOps rodamap.md",
+    "DNS.md",
+    "do-while.md",
+    "canvases/Без названия 3.canvas",
+    "Scripting.md",
+    "Untitled.md",
     "projects/Asterisk setup TASK.md",
     "projects/таск такой себе.md",
     "projects/Task kannel статистика.md",
-    "create table.md",
-    "PHP Variables.md",
     "HTTP.md",
     "HTTP code.md",
     "URN.md",
     "URL.md",
     "URI.md",
-    "DNS.md",
     "Kannel.md",
     "Как читать документацию PHP.md",
     "Виды шрифтов.md",
-    "Анатомия типографии.md",
-    "Альтернативный синтаксис управляющих структур.md",
-    "README.md",
-    "for.md",
-    "if else ifelse.md",
-    "do-while.md",
-    "DlR Masks.md",
-    "Control Structures.md",
-    "Check listen ports.md",
-    "Пример cURL xml post запроса.md",
-    "ODBC installation and configuration.md",
-    "PHP RoadMap.md",
-    "canvases/Как читать документацию.canvas",
-    "canvases/Без названия 3.canvas",
-    "canvases/Без названия 2.canvas",
-    "canvases/Без названия 1.canvas",
     "canvases/Без названия.canvas",
     "canvases"
   ]
