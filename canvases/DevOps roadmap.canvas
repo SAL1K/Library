@@ -1,10 +1,115 @@
 {
   "nodes": [
     {
+      "id": "60f0220778be737e",
+      "type": "group",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "x": -616,
+      "y": 780,
+      "width": 385,
+      "height": 300,
+      "label": "Email Protocols"
+    },
+    {
+      "id": "86f73af92787543b",
+      "type": "group",
+      "x": 236,
+      "y": 340,
+      "width": 427,
+      "height": 250,
+      "label": "Need to Know Software"
+    },
+    {
+      "id": "8518f64bb871d7b0",
+      "x": -540,
+      "y": 2760,
+      "width": 320,
+      "height": 290,
+      "type": "group",
+      "label": "Cloud Design Patterns"
+    },
+    {
+      "id": "64c0187c77643bf5",
+      "type": "group",
+      "x": -550,
+      "y": 400,
+      "width": 252,
+      "height": 340,
+      "label": "Network Protocols"
+    },
+    {
+      "id": "9cc8db7b1e1618c4",
+      "type": "group",
+      "x": -620,
+      "y": 2060,
+      "width": 360,
+      "height": 230,
+      "label": "Monitoring"
+    },
+    {
+      "id": "fbe37f5f0ecc725a",
+      "type": "group",
+      "x": 280,
+      "y": 1860,
+      "width": 380,
+      "height": 180,
+      "label": "Logs Managment"
+    },
+    {
+      "id": "236b6b0c6017d0da",
+      "type": "group",
+      "x": -620,
+      "y": 1660,
+      "width": 360,
+      "height": 180,
+      "label": "Monitoring"
+    },
+    {
+      "id": "3220c94264081a3e",
+      "type": "group",
+      "x": 233,
+      "y": 670,
+      "width": 397,
+      "height": 160,
+      "label": "Cloud Providers"
+    },
+    {
+      "id": "a6f9b695802b4939",
+      "type": "group",
+      "x": -605,
+      "y": 1280,
+      "width": 331,
+      "height": 180,
+      "label": "CI / CD"
+    },
+    {
+      "id": "20da4691ca273ac6",
+      "type": "group",
+      "x": 260,
+      "y": 2260,
+      "width": 200,
+      "height": 220,
+      "label": "Artifacts Managment"
+    },
+    {
+      "id": "bf940e807ef00e85",
+      "type": "group",
+      "x": 360,
+      "y": 1480,
+      "width": 277,
+      "height": 155,
+      "label": "Secret"
+    },
+    {
       "id": "2493b2872fb9a72e",
       "type": "text",
       "text": "Docker",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -300,
       "y": 295,
       "width": 130,
@@ -14,37 +119,21 @@
       "id": "0dfd1ec3043ed214",
       "type": "text",
       "text": " Container Orchestration",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -620,
       "y": 295,
       "width": 275,
       "height": 60
     },
     {
-      "id": "4ba0150690154290",
-      "type": "text",
-      "text": "Kubernets",
-      "styleAttributes": {},
-      "x": -697,
-      "y": 460,
-      "width": 177,
-      "height": 60
-    },
-    {
-      "id": "b8b956e34c39e72c",
-      "type": "text",
-      "text": "Docker Swarm",
-      "styleAttributes": {},
-      "x": -485,
-      "y": 460,
-      "width": 185,
-      "height": 60
-    },
-    {
       "id": "07c473a3b9370507",
       "type": "text",
       "text": "DevOps roadmap",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": -200,
       "width": 260,
@@ -55,7 +144,9 @@
       "id": "f9aa39a8ab852fd1",
       "type": "text",
       "text": "Programming Language",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": -80,
       "width": 260,
@@ -66,7 +157,9 @@
       "id": "d3253663bb0589b6",
       "type": "text",
       "text": "Operation System",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": 40,
       "width": 260,
@@ -77,7 +170,9 @@
       "id": "b1304eb335122e1c",
       "type": "text",
       "text": "Version Control System",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": 165,
       "width": 260,
@@ -88,7 +183,9 @@
       "id": "04e2197c751dbca7",
       "type": "text",
       "text": "Containers",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": 300,
       "width": 260,
@@ -98,7 +195,9 @@
       "id": "d2a7d4b34afa509a",
       "type": "text",
       "text": "Basic Software  ",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -100,
       "y": 440,
       "width": 260,
@@ -108,7 +207,9 @@
       "id": "ba7097f537c36f95",
       "type": "text",
       "text": "Python",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 285,
       "y": -115,
       "width": 125,
@@ -119,7 +220,9 @@
       "id": "bb76f231d7f62a8a",
       "type": "text",
       "text": "Golang",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 285,
       "y": -45,
       "width": 125,
@@ -130,7 +233,9 @@
       "id": "13b6706f818a5a7f",
       "type": "text",
       "text": "Process Monitoring",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -1085,
       "y": -85,
       "width": 250,
@@ -140,7 +245,9 @@
       "id": "71ab8acf55c1643c",
       "type": "text",
       "text": "Performance Monitoring",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -1085,
       "y": -5,
       "width": 250,
@@ -150,7 +257,9 @@
       "id": "664d0bde80c34274",
       "type": "text",
       "text": "Network Tools",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -1085,
       "y": 75,
       "width": 250,
@@ -170,7 +279,9 @@
       "id": "54f42da30d1a9a60",
       "type": "text",
       "text": "Terminal Knowledge",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -745,
       "y": 35,
       "width": 250,
@@ -181,7 +292,9 @@
       "id": "22a08a1ac5fd17c6",
       "type": "text",
       "text": "Text Manipulation",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -1085,
       "y": 155,
       "width": 250,
@@ -191,7 +304,9 @@
       "id": "7b24a0c446aa359a",
       "type": "text",
       "text": "Vim",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -670,
       "y": 120,
       "width": 100,
@@ -201,7 +316,9 @@
       "id": "c6cebbcfd2d3fcfb",
       "type": "text",
       "text": "- [ ] How linux works",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -435,
       "y": -85,
       "width": 250,
@@ -211,7 +328,9 @@
       "id": "440669023f763389",
       "type": "text",
       "text": "- Ubuntu / Debian\n- RHEL",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -425,
       "y": 25,
       "width": 230,
@@ -222,7 +341,9 @@
       "id": "6a1be6fae7ff9b5f",
       "type": "text",
       "text": "VCS Hosting",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 274,
       "y": 160,
       "width": 162,
@@ -232,7 +353,9 @@
       "id": "be1f3e51879f787a",
       "type": "text",
       "text": "GitLab",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 560,
       "y": 80,
       "width": 140,
@@ -242,7 +365,9 @@
       "id": "499a58eefe00e1e0",
       "type": "text",
       "text": "GitHub",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 560,
       "y": 160,
       "width": 140,
@@ -252,71 +377,937 @@
       "id": "f5d74904c7b01525",
       "type": "text",
       "text": "Bitbucket",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": 560,
       "y": 240,
       "width": 140,
       "height": 60
     },
     {
-      "id": "e48e4d23ac2b1632",
+      "id": "4640eaf68ee6165d",
       "type": "text",
-      "text": "Forward Proxy",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 315,
+      "text": "Networking & Protocols\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 575,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4ba0150690154290",
+      "type": "text",
+      "text": "Kubernets",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -928,
+      "y": 255,
       "width": 187,
       "height": 60
     },
     {
-      "id": "850f469abceba107",
+      "id": "b8b956e34c39e72c",
       "type": "text",
-      "text": "Caching Server",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 395,
+      "text": "Docker Swarm",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -928,
+      "y": 335,
       "width": 187,
       "height": 60
     },
     {
-      "id": "e59a830159a47833",
+      "id": "9c6b93a5c85cda9c",
       "type": "text",
-      "text": "Firewall",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 475,
-      "width": 187,
+      "text": "HTTP",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -530,
+      "y": 420,
+      "width": 96,
       "height": 60
     },
     {
-      "id": "742ef7c899aef585",
+      "id": "8810b67f1bbff27d",
       "type": "text",
-      "text": "Reverse Proxy",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 555,
-      "width": 187,
+      "text": "SSL / TLS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -414,
+      "y": 420,
+      "width": 96,
       "height": 60
     },
     {
-      "id": "24a76e6abf821c23",
+      "id": "f0fc60656c8a8b89",
       "type": "text",
-      "text": "Load Balancer",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 635,
-      "width": 187,
+      "text": "DNS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -530,
+      "y": 500,
+      "width": 96,
+      "height": 60
+    },
+    {
+      "id": "527b8d35bdc0c97a",
+      "type": "text",
+      "text": "SSH",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -414,
+      "y": 500,
+      "width": 96,
+      "height": 60
+    },
+    {
+      "id": "25ba62c82d6206a9",
+      "type": "text",
+      "text": "HTTPS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -530,
+      "y": 580,
+      "width": 96,
+      "height": 60
+    },
+    {
+      "id": "cd1b54bac30da4d9",
+      "type": "text",
+      "text": "FTP / SFPT",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -414,
+      "y": 580,
+      "width": 96,
+      "height": 60
+    },
+    {
+      "id": "2c4370fcf2d954ba",
+      "type": "text",
+      "text": "OSI Model",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -530,
+      "y": 660,
+      "width": 212,
       "height": 60
     },
     {
       "id": "a92c19a5797c7860",
       "type": "text",
       "text": "Nginx",
-      "styleAttributes": {},
-      "x": 285,
-      "y": 245,
-      "width": 187,
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 256,
+      "y": 360,
+      "width": 184,
       "height": 50
+    },
+    {
+      "id": "24a76e6abf821c23",
+      "type": "text",
+      "text": "Load Balancer",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 459,
+      "y": 520,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "850f469abceba107",
+      "type": "text",
+      "text": "Caching Server",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 256,
+      "y": 520,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "e48e4d23ac2b1632",
+      "type": "text",
+      "text": "Forward Proxy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 256,
+      "y": 440,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "742ef7c899aef585",
+      "type": "text",
+      "text": "Reverse Proxy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 459,
+      "y": 440,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "e59a830159a47833",
+      "type": "text",
+      "text": "Firewall",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 459,
+      "y": 360,
+      "width": 184,
+      "height": 50
+    },
+    {
+      "id": "5f1204c20e6fe27f",
+      "type": "text",
+      "text": "SPF",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -598,
+      "y": 870,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "65feb68be4953dd8",
+      "type": "text",
+      "text": "IMAPS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -412,
+      "y": 870,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "692eabf99bdbfe20",
+      "type": "text",
+      "text": "Domain Keys",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -598,
+      "y": 940,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "2a3a3b6c57bea9b3",
+      "type": "text",
+      "text": "POP3S",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -412,
+      "y": 940,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "eaace724c85cd1c5",
+      "type": "text",
+      "text": "White / Gray Listing",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -598,
+      "y": 1010,
+      "width": 343,
+      "height": 50
+    },
+    {
+      "id": "bb7e5978d059a309",
+      "type": "text",
+      "text": "SMTP",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -598,
+      "y": 800,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "cd6873ef117506f2",
+      "type": "text",
+      "text": "DMARC",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -412,
+      "y": 800,
+      "width": 166,
+      "height": 50
+    },
+    {
+      "id": "b555d5a2d692a686",
+      "type": "text",
+      "text": "Cloud Providers",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "44087c964767ace9",
+      "type": "text",
+      "text": "AWS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 253,
+      "y": 690,
+      "width": 170,
+      "height": 50
+    },
+    {
+      "id": "f7f835e521dba111",
+      "type": "text",
+      "text": "Sber Cloud",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 440,
+      "y": 690,
+      "width": 170,
+      "height": 50
+    },
+    {
+      "id": "fc0fd8a74dbd8dfc",
+      "type": "text",
+      "text": "Google Cloud",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 253,
+      "y": 760,
+      "width": 170,
+      "height": 50
+    },
+    {
+      "id": "e3fbebd34fc015c4",
+      "type": "text",
+      "text": "Yandex Cloud",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 440,
+      "y": 760,
+      "width": 170,
+      "height": 50
+    },
+    {
+      "id": "64556e59291c8d29",
+      "type": "text",
+      "text": "Serverless",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 880,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7be9c5b4a4f12a27",
+      "type": "text",
+      "text": "Provisioning",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 1030,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f8dd3c37fdd99c90",
+      "type": "text",
+      "text": "AWS Lambda",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 309,
+      "y": 853,
+      "width": 171,
+      "height": 50
+    },
+    {
+      "id": "357c3507221a979e",
+      "type": "text",
+      "text": "Cloudfire",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 309,
+      "y": 920,
+      "width": 171,
+      "height": 50
+    },
+    {
+      "id": "1b2d9a7c3727a024",
+      "type": "text",
+      "text": "Terraform",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 256,
+      "y": 1035,
+      "width": 147,
+      "height": 50
+    },
+    {
+      "id": "f5cf5d7e9747a890",
+      "type": "text",
+      "text": "Ansible",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 249,
+      "y": 1120,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "717c85483abaa03d",
+      "type": "text",
+      "text": "Chef",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 249,
+      "y": 1187,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "aa8d10312595a041",
+      "type": "text",
+      "text": "Puppet",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 249,
+      "y": 1253,
+      "width": 120,
+      "height": 50
+    },
+    {
+      "id": "315ae0e482bc298d",
+      "type": "text",
+      "text": "Configuration Managment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -110,
+      "y": 1182,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "382a9e47db48541d",
+      "type": "text",
+      "text": "CI / CD Tools",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 1340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9fad5b3fa9d59aad",
+      "type": "text",
+      "text": "Secret Managment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 1520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7e0d995c5a933688",
+      "type": "text",
+      "text": "Infrstructure Monitoring",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 1720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0e37c33eb4d79b53",
+      "type": "text",
+      "text": "Grafana",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -434,
+      "y": 1680,
+      "width": 154,
+      "height": 60
+    },
+    {
+      "id": "26e1ac4c5b230dd6",
+      "type": "text",
+      "text": "Prometeus",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": 1680,
+      "width": 154,
+      "height": 60
+    },
+    {
+      "id": "ee6e5e6c7ce3b8c6",
+      "type": "text",
+      "text": "Zabbix",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": 1760,
+      "width": 154,
+      "height": 60
+    },
+    {
+      "id": "ae7c5ed6f0541539",
+      "type": "text",
+      "text": "Datadog",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -434,
+      "y": 1760,
+      "width": 154,
+      "height": 60
+    },
+    {
+      "id": "685c824fae52cca4",
+      "type": "text",
+      "text": "Logs Managment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 1920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5339131104581c58",
+      "type": "text",
+      "text": "Papertail",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 300,
+      "y": 1880,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "c0c795f6907424d1",
+      "type": "text",
+      "text": "Splunk",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 300,
+      "y": 1960,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "e03805f4c1a75cfb",
+      "type": "text",
+      "text": "Loki",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 476,
+      "y": 1880,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "65fedbfac3ac7f03",
+      "type": "text",
+      "text": "Elastic Stack",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 476,
+      "y": 1960,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "4e28cb9c9f81f411",
+      "type": "text",
+      "text": "Vault",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 381,
+      "y": 1500,
+      "width": 109,
+      "height": 50
+    },
+    {
+      "id": "32b6dc355562e8a6",
+      "type": "text",
+      "text": "SOPs",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 510,
+      "y": 1500,
+      "width": 107,
+      "height": 50
+    },
+    {
+      "id": "4baad2a072d192a8",
+      "type": "text",
+      "text": "Sealed Secret",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 380,
+      "y": 1565,
+      "width": 236,
+      "height": 50
+    },
+    {
+      "id": "89cb1756d86f036d",
+      "type": "text",
+      "text": "Application Monitoring",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 2140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bfb5c1605b82275e",
+      "type": "text",
+      "text": "Artifact Managment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 2340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "44178e5ff9cc4cf9",
+      "type": "text",
+      "text": "Artifactory",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 280,
+      "y": 2280,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "86e2386ca6662739",
+      "type": "text",
+      "text": "Nexus",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 280,
+      "y": 2347,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "a6e4d8811af1b415",
+      "type": "text",
+      "text": "Cloud Smith",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 280,
+      "y": 2413,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "99ee755d3931f757",
+      "type": "text",
+      "text": "GitOps",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 2520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "22a2ac6733c0d9e3",
+      "type": "text",
+      "text": "ArgoCD",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 2495,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "d542507e25f0dcb7",
+      "type": "text",
+      "text": "FluxCD",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 2562,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "c575c4862cba173b",
+      "type": "text",
+      "text": "Service Mesh",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 2690,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "542191338c72d3fb",
+      "type": "text",
+      "text": "Istio",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 295,
+      "y": 2665,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "39c626e6ad0e349a",
+      "type": "text",
+      "text": "Consul",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 295,
+      "y": 2732,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "a8947b6e01aef699",
+      "type": "text",
+      "text": "Cloud Disign Patterns",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": 2880,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ff0f40b565d7f085",
+      "type": "text",
+      "text": "Availability",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": 2780,
+      "width": 280,
+      "height": 50
+    },
+    {
+      "id": "ec7a48aa540a96eb",
+      "type": "text",
+      "text": "Data Managment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": 2847,
+      "width": 280,
+      "height": 50
+    },
+    {
+      "id": "41db13ca12b53973",
+      "type": "text",
+      "text": "Design and Implementation",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": 2913,
+      "width": 280,
+      "height": 50
+    },
+    {
+      "id": "0501b1fc1fb5b5c1",
+      "type": "text",
+      "text": "Managment amd Monitoring",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": 2980,
+      "width": 280,
+      "height": 50
+    },
+    {
+      "id": "46ee83baf36f897c",
+      "type": "text",
+      "text": "Prometeus",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": 2150,
+      "width": 150,
+      "height": 50
+    },
+    {
+      "id": "9782bcd7dced6a72",
+      "type": "text",
+      "text": "New Relic",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -430,
+      "y": 2150,
+      "width": 150,
+      "height": 50
+    },
+    {
+      "id": "570963dbabd74ee1",
+      "type": "text",
+      "text": "Open Telemetry",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": 2220,
+      "width": 320,
+      "height": 50
+    },
+    {
+      "id": "c9a6f0da6bb33b50",
+      "type": "text",
+      "text": "Datadog",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": 2080,
+      "width": 150,
+      "height": 50
+    },
+    {
+      "id": "dd78c93ccf6bef5a",
+      "type": "text",
+      "text": "Jaeger",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -430,
+      "y": 2080,
+      "width": 150,
+      "height": 50
+    },
+    {
+      "id": "b500445d3d53cb8b",
+      "type": "text",
+      "text": "Travis",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -585,
+      "y": 1380,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "049e3f31822a22a4",
+      "type": "text",
+      "text": "TeamCity",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -434,
+      "y": 1380,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "a7e9cccf61e4ad32",
+      "type": "text",
+      "text": "Drone",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -585,
+      "y": 1300,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "4d945325cb06d12b",
+      "type": "text",
+      "text": "Jenkins",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -434,
+      "y": 1300,
+      "width": 140,
+      "height": 60
     }
   ],
   "edges": [
@@ -468,20 +1459,6 @@
       "toSide": "right"
     },
     {
-      "id": "5e14176b8f483ccd",
-      "fromNode": "0dfd1ec3043ed214",
-      "fromSide": "bottom",
-      "toNode": "4ba0150690154290",
-      "toSide": "top"
-    },
-    {
-      "id": "1fc6d3e02f72a3f8",
-      "fromNode": "0dfd1ec3043ed214",
-      "fromSide": "bottom",
-      "toNode": "b8b956e34c39e72c",
-      "toSide": "top"
-    },
-    {
       "id": "c5189cba455f2b68",
       "fromNode": "440669023f763389",
       "fromSide": "top",
@@ -489,48 +1466,304 @@
       "toSide": "bottom"
     },
     {
-      "id": "3186f2ecbb212585",
+      "id": "f0ae29e1277fbdd8",
+      "styleAttributes": {},
       "fromNode": "d2a7d4b34afa509a",
-      "fromSide": "right",
-      "toNode": "850f469abceba107",
-      "toSide": "left"
+      "fromSide": "bottom",
+      "toNode": "4640eaf68ee6165d",
+      "toSide": "top"
     },
     {
-      "id": "94e2aee31232fe84",
-      "fromNode": "d2a7d4b34afa509a",
-      "fromSide": "right",
-      "toNode": "e48e4d23ac2b1632",
-      "toSide": "left"
+      "id": "b158c09fb2c986db",
+      "styleAttributes": {},
+      "fromNode": "0dfd1ec3043ed214",
+      "fromSide": "left",
+      "toNode": "4ba0150690154290",
+      "toSide": "right"
     },
     {
-      "id": "459a2304756eecc2",
-      "fromNode": "d2a7d4b34afa509a",
-      "fromSide": "right",
-      "toNode": "e59a830159a47833",
-      "toSide": "left"
+      "id": "2f02d50848d82bfb",
+      "styleAttributes": {},
+      "fromNode": "0dfd1ec3043ed214",
+      "fromSide": "left",
+      "toNode": "b8b956e34c39e72c",
+      "toSide": "right"
     },
     {
-      "id": "f99320f282cba6c2",
-      "fromNode": "d2a7d4b34afa509a",
-      "fromSide": "right",
-      "toNode": "742ef7c899aef585",
-      "toSide": "left"
+      "id": "67655e15f09b1803",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "4640eaf68ee6165d",
+      "fromSide": "left",
+      "toNode": "64c0187c77643bf5",
+      "toSide": "right"
     },
     {
-      "id": "96c6051ddd414352",
+      "id": "8c7518e72f5b144d",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "4640eaf68ee6165d",
+      "fromSide": "left",
+      "toNode": "60f0220778be737e",
+      "toSide": "right"
+    },
+    {
+      "id": "ae51c4b25b08703c",
       "styleAttributes": {},
       "fromNode": "d2a7d4b34afa509a",
       "fromSide": "right",
-      "toNode": "24a76e6abf821c23",
+      "toNode": "86f73af92787543b",
       "toSide": "left"
     },
     {
-      "id": "f71e728b9de61a6e",
+      "id": "88a66c6a0bd37e09",
       "styleAttributes": {},
-      "fromNode": "d2a7d4b34afa509a",
+      "fromNode": "4640eaf68ee6165d",
+      "fromSide": "bottom",
+      "toNode": "b555d5a2d692a686",
+      "toSide": "top"
+    },
+    {
+      "id": "4704647ab9f6fa53",
+      "styleAttributes": {},
+      "fromNode": "b555d5a2d692a686",
       "fromSide": "right",
-      "toNode": "a92c19a5797c7860",
+      "toNode": "3220c94264081a3e",
       "toSide": "left"
+    },
+    {
+      "id": "a13b13910bf8dc04",
+      "styleAttributes": {},
+      "fromNode": "b555d5a2d692a686",
+      "fromSide": "bottom",
+      "toNode": "64556e59291c8d29",
+      "toSide": "top"
+    },
+    {
+      "id": "9052b071a951c2e0",
+      "styleAttributes": {},
+      "fromNode": "64556e59291c8d29",
+      "fromSide": "right",
+      "toNode": "357c3507221a979e",
+      "toSide": "left"
+    },
+    {
+      "id": "a132d7e0e81f8624",
+      "styleAttributes": {},
+      "fromNode": "64556e59291c8d29",
+      "fromSide": "right",
+      "toNode": "f8dd3c37fdd99c90",
+      "toSide": "left"
+    },
+    {
+      "id": "03bacb461dbecf85",
+      "styleAttributes": {},
+      "fromNode": "64556e59291c8d29",
+      "fromSide": "bottom",
+      "toNode": "7be9c5b4a4f12a27",
+      "toSide": "top"
+    },
+    {
+      "id": "4a859c71a0ba6697",
+      "styleAttributes": {},
+      "fromNode": "7be9c5b4a4f12a27",
+      "fromSide": "right",
+      "toNode": "1b2d9a7c3727a024",
+      "toSide": "left"
+    },
+    {
+      "id": "9774423495b51be1",
+      "styleAttributes": {},
+      "fromNode": "7be9c5b4a4f12a27",
+      "fromSide": "bottom",
+      "toNode": "315ae0e482bc298d",
+      "toSide": "top"
+    },
+    {
+      "id": "e2d78f0335781dd6",
+      "styleAttributes": {},
+      "fromNode": "315ae0e482bc298d",
+      "fromSide": "right",
+      "toNode": "f5cf5d7e9747a890",
+      "toSide": "left"
+    },
+    {
+      "id": "875f34ae98c35280",
+      "styleAttributes": {},
+      "fromNode": "315ae0e482bc298d",
+      "fromSide": "right",
+      "toNode": "717c85483abaa03d",
+      "toSide": "left"
+    },
+    {
+      "id": "1b81a308223099c5",
+      "styleAttributes": {},
+      "fromNode": "315ae0e482bc298d",
+      "fromSide": "right",
+      "toNode": "aa8d10312595a041",
+      "toSide": "left"
+    },
+    {
+      "id": "e5611c2fe275716b",
+      "styleAttributes": {},
+      "fromNode": "315ae0e482bc298d",
+      "fromSide": "bottom",
+      "toNode": "382a9e47db48541d",
+      "toSide": "top"
+    },
+    {
+      "id": "dcacf9770f1e2495",
+      "styleAttributes": {},
+      "fromNode": "382a9e47db48541d",
+      "fromSide": "left",
+      "toNode": "a6f9b695802b4939",
+      "toSide": "right"
+    },
+    {
+      "id": "d939c1e556e7ba9b",
+      "styleAttributes": {},
+      "fromNode": "382a9e47db48541d",
+      "fromSide": "bottom",
+      "toNode": "9fad5b3fa9d59aad",
+      "toSide": "top"
+    },
+    {
+      "id": "6ceaff203fc460f5",
+      "styleAttributes": {},
+      "fromNode": "9fad5b3fa9d59aad",
+      "fromSide": "right",
+      "toNode": "bf940e807ef00e85",
+      "toSide": "left"
+    },
+    {
+      "id": "3abeca11b9b0bd43",
+      "styleAttributes": {},
+      "fromNode": "9fad5b3fa9d59aad",
+      "fromSide": "bottom",
+      "toNode": "7e0d995c5a933688",
+      "toSide": "top"
+    },
+    {
+      "id": "4a7d44a7dd5d75ad",
+      "styleAttributes": {},
+      "fromNode": "7e0d995c5a933688",
+      "fromSide": "left",
+      "toNode": "236b6b0c6017d0da",
+      "toSide": "right"
+    },
+    {
+      "id": "0f8062342c3d3d38",
+      "styleAttributes": {},
+      "fromNode": "7e0d995c5a933688",
+      "fromSide": "bottom",
+      "toNode": "685c824fae52cca4",
+      "toSide": "top"
+    },
+    {
+      "id": "327fb90a6b5c1610",
+      "styleAttributes": {},
+      "fromNode": "685c824fae52cca4",
+      "fromSide": "right",
+      "toNode": "fbe37f5f0ecc725a",
+      "toSide": "left"
+    },
+    {
+      "id": "dfa530cf4ca6afcc",
+      "styleAttributes": {},
+      "fromNode": "685c824fae52cca4",
+      "fromSide": "bottom",
+      "toNode": "89cb1756d86f036d",
+      "toSide": "top"
+    },
+    {
+      "id": "ab6b67f43defc463",
+      "styleAttributes": {},
+      "fromNode": "89cb1756d86f036d",
+      "fromSide": "left",
+      "toNode": "9cc8db7b1e1618c4",
+      "toSide": "right"
+    },
+    {
+      "id": "78885f24882c3992",
+      "styleAttributes": {},
+      "fromNode": "89cb1756d86f036d",
+      "fromSide": "bottom",
+      "toNode": "bfb5c1605b82275e",
+      "toSide": "top"
+    },
+    {
+      "id": "2d85a225d573f4de",
+      "styleAttributes": {},
+      "fromNode": "bfb5c1605b82275e",
+      "fromSide": "right",
+      "toNode": "20da4691ca273ac6",
+      "toSide": "left"
+    },
+    {
+      "id": "5467dd3dc7b69e68",
+      "styleAttributes": {},
+      "fromNode": "bfb5c1605b82275e",
+      "fromSide": "bottom",
+      "toNode": "99ee755d3931f757",
+      "toSide": "top"
+    },
+    {
+      "id": "28315f211c30c263",
+      "styleAttributes": {},
+      "fromNode": "99ee755d3931f757",
+      "fromSide": "left",
+      "toNode": "d542507e25f0dcb7",
+      "toSide": "right"
+    },
+    {
+      "id": "32583c9f23918a99",
+      "styleAttributes": {},
+      "fromNode": "99ee755d3931f757",
+      "fromSide": "left",
+      "toNode": "22a2ac6733c0d9e3",
+      "toSide": "right"
+    },
+    {
+      "id": "1be8b4262c8c5759",
+      "styleAttributes": {},
+      "fromNode": "99ee755d3931f757",
+      "fromSide": "bottom",
+      "toNode": "c575c4862cba173b",
+      "toSide": "top"
+    },
+    {
+      "id": "aae0d38856fed5f3",
+      "styleAttributes": {},
+      "fromNode": "c575c4862cba173b",
+      "fromSide": "right",
+      "toNode": "542191338c72d3fb",
+      "toSide": "left"
+    },
+    {
+      "id": "a4f0ac954de3fa78",
+      "styleAttributes": {},
+      "fromNode": "c575c4862cba173b",
+      "fromSide": "right",
+      "toNode": "39c626e6ad0e349a",
+      "toSide": "left"
+    },
+    {
+      "id": "65130ad5a3cef184",
+      "styleAttributes": {},
+      "fromNode": "c575c4862cba173b",
+      "fromSide": "bottom",
+      "toNode": "a8947b6e01aef699",
+      "toSide": "top"
+    },
+    {
+      "id": "662b4ba5b2b32eef",
+      "styleAttributes": {},
+      "fromNode": "a8947b6e01aef699",
+      "fromSide": "left",
+      "toNode": "8518f64bb871d7b0",
+      "toSide": "right"
     }
   ],
   "metadata": {}
