@@ -1,1 +1,0 @@
-$A it'sa variables
