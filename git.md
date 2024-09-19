@@ -13,3 +13,4 @@
 - [[git-fetch]]
 ### Merge commands
 - [[git-merge]]
+- [[git-rebase]]

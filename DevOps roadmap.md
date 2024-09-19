@@ -9,6 +9,7 @@
 - [[git|Git]]
 ## [[Containers]]
 - [[Docker]]
+
 ## [[Basic Software]]
 - [[Nginx]]
 - [[Forward Proxy]]
@@ -48,6 +49,7 @@
 - [[Chef]]
 - [[Puppet]]
 ## [[CI / CD Tools]]
+- [[gitlab-ci-cd|Gitlab Ci/CD]]
 - [[Drone]]
 - [[Jenkins]]
 - [[Travis]]

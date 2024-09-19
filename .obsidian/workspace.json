@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30be80eb94cd8cff",
+        "id": "8e0c4a0dbc4d8862",
         "type": "tabs",
         "children": [
           {
-            "id": "8253b6c5d433abb6",
+            "id": "c7d67df5df7f4073",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "178734dc97be979c",
+            "id": "c38d0a3dcb212cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git-commit.md",
+                "file": "Теория тестирования ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,36 +184,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8253b6c5d433abb6",
+  "active": "c7d67df5df7f4073",
   "lastOpenFiles": [
-    "git-commit.md",
+    "Теория тестирования ПО.md",
     "DevOps roadmap.md",
+    "Python.md",
+    "Ubuntu.md",
+    "SIP peer to peer.md",
+    "Scripting.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "git-add.md",
     "git.md",
+    "Version Control System.md",
+    "git-commit.md",
     "HTTP.md",
+    "HTTP code.md",
+    "git-push.md",
     "templates/Explane.md",
     "canvases/DevOps roadmap.canvas",
-    "git-add.md",
     "git add.md",
     "Flags.md",
     "Flags/флаг.md",
     "Flags",
     "а.md",
-    "Version Control System.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Control Structures.md",
     "Check listen ports.md",
     "Untitled 4.md",
     "create table.md",
     "DNS.md",
     "for.md",
-    "HTTP code.md",
-    "if else ifelse.md",
-    "Installation Asterisk.md",
-    "Kannel.md",
-    "nginx conf.md",
-    "ODBC intallation and configuration.md",
-    "PHP Variables.md",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
     "canvases/Как читать документацию.canvas",
