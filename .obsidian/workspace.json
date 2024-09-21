@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e0c4a0dbc4d8862",
+        "id": "81223ac3299ff882",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d67df5df7f4073",
+            "id": "4bedb01fe84ff816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c38d0a3dcb212cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теория тестирования ПО.md",
+                "file": "Bug.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "695bf28119e53354",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps roadmap.md",
+                "file": "Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps roadmap.md",
+                "file": "Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps roadmap.md"
+                "file": "Bug.md"
               }
             }
           },
@@ -170,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7d67df5df7f4073",
+  "active": "4bedb01fe84ff816",
   "lastOpenFiles": [
     "Теория тестирования ПО.md",
+    "Bug.md",
     "DevOps roadmap.md",
     "Python.md",
     "Ubuntu.md",
@@ -213,7 +205,6 @@
     "Untitled 4.md",
     "create table.md",
     "DNS.md",
-    "for.md",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
     "canvases/Как читать документацию.canvas",
