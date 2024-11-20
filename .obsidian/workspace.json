@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "81223ac3299ff882",
+        "id": "b16eaff93cbc705f",
         "type": "tabs",
         "children": [
           {
-            "id": "4bedb01fe84ff816",
+            "id": "0a2fb57f93de5bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug.md",
+                "file": "Nginx.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nginx"
+            }
+          },
+          {
+            "id": "dc32ea873a359978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фикс прав для nginx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Фикс прав для nginx"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,16 +93,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "695bf28119e53354",
@@ -95,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug.md",
+                "file": "Check listen ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Check listen ports"
             }
           },
           {
@@ -112,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug.md",
+                "file": "Check listen ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Check listen ports"
             }
           },
           {
@@ -126,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug.md"
-              }
+                "file": "Check listen ports.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Check listen ports"
             }
           },
           {
@@ -144,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -152,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -175,36 +210,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bedb01fe84ff816",
+  "active": "dc32ea873a359978",
   "lastOpenFiles": [
-    "Теория тестирования ПО.md",
-    "Bug.md",
+    "Nginx.md",
+    "Фикс прав для nginx.md",
+    "nginx conf.md",
     "DevOps roadmap.md",
-    "Python.md",
+    "Check listen ports.md",
+    "canvases/DevOps roadmap.canvas",
+    "Version Control System.md",
+    "URL.md",
+    "URN.md",
+    "URI.md",
     "Ubuntu.md",
+    "DlR Masks.md",
+    "create table.md",
+    "Bug.md",
+    "а.md",
+    "Теория тестирования ПО.md",
+    "Python.md",
     "SIP peer to peer.md",
     "Scripting.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "git-add.md",
     "git.md",
-    "Version Control System.md",
     "git-commit.md",
     "HTTP.md",
     "HTTP code.md",
     "git-push.md",
-    "templates/Explane.md",
-    "canvases/DevOps roadmap.canvas",
-    "git add.md",
-    "Flags.md",
-    "Flags/флаг.md",
     "Flags",
-    "а.md",
-    "Control Structures.md",
-    "Check listen ports.md",
-    "Untitled 4.md",
-    "create table.md",
-    "DNS.md",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
     "canvases/Как читать документацию.canvas",
