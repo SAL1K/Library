@@ -197,6 +197,8 @@
   },
   "active": "4bedb01fe84ff816",
   "lastOpenFiles": [
+    "Фикс прав для nginx.md",
+    "Nginx.md",
     "Check listen ports.md",
     "Control Structures.md",
     "HTTP.md",
@@ -222,8 +224,6 @@
     "templates/Explane.md",
     "canvases/DevOps roadmap.canvas",
     "git add.md",
-    "Flags.md",
-    "Flags/флаг.md",
     "Flags",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
