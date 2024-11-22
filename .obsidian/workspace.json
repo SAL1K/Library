@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug.md",
+                "file": "DevOps roadmap.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DevOps roadmap"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,16 +78,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "695bf28119e53354",
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug.md",
+                "file": "DevOps roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DevOps roadmap"
             }
           },
           {
@@ -112,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug.md",
+                "file": "DevOps roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DevOps roadmap"
             }
           },
           {
@@ -126,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug.md"
-              }
+                "file": "DevOps roadmap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DevOps roadmap"
             }
           },
           {
@@ -144,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -152,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -177,6 +197,14 @@
   },
   "active": "4bedb01fe84ff816",
   "lastOpenFiles": [
+    "Check listen ports.md",
+    "Control Structures.md",
+    "HTTP.md",
+    "HTTP code.md",
+    "Installation Asterisk.md",
+    "if else ifelse.md",
+    "Kannel.md",
+    "nginx conf.md",
     "Теория тестирования ПО.md",
     "Bug.md",
     "DevOps roadmap.md",
@@ -190,8 +218,6 @@
     "git.md",
     "Version Control System.md",
     "git-commit.md",
-    "HTTP.md",
-    "HTTP code.md",
     "git-push.md",
     "templates/Explane.md",
     "canvases/DevOps roadmap.canvas",
@@ -199,12 +225,6 @@
     "Flags.md",
     "Flags/флаг.md",
     "Flags",
-    "а.md",
-    "Control Structures.md",
-    "Check listen ports.md",
-    "Untitled 4.md",
-    "create table.md",
-    "DNS.md",
     "canvases/Без названия 2.canvas",
     "canvases/Без названия 1.canvas",
     "canvases/Как читать документацию.canvas",
